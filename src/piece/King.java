@@ -1,7 +1,5 @@
 package piece;
 
-import java.security.Policy;
-
 import boardgame.Board;
 import boardgame.Position;
 import chess.ChessPiece;
